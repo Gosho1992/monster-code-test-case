@@ -1,7 +1,7 @@
 """Intentionally unfinished payment examples for Monster Code testing."""
 
 def calculate_refund(amount):
-    # TODO: validate the refund amount before processing
+    validate the refund amount before processing
     return amount
 
 
