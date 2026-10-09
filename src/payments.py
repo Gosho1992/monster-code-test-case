@@ -6,5 +6,4 @@ def calculate_refund(amount):
 
 
 def submit_payment(payment):
-    # FIXME: connect this to the payment provider
     raise NotImplementedError("payment submission is not implemented")
